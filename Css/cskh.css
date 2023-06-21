@@ -1,0 +1,56 @@
+.main_mh{
+    font-size: 30px;
+    color: rgb(251, 76, 76);
+    text-align: center;
+    padding-top: 30px;
+}
+.p_1{
+    font-size: 25px;
+    color: rgb(72, 71, 71);
+    font-weight: 400;
+    margin-left: 24px;
+}
+@media (max-width: 1140px) {
+    nav{
+        position: relative;
+        top: 0px;
+    }
+}
+.p1{
+    font-size: 20px;
+    line-height: 1;
+}
+.p2{
+    font-size: 19px;
+    line-height: 1.5;
+    margin-left: 70px;
+}
+.p--1{
+    font-size: 20px;
+    line-height: 1.5;
+    margin-left: 54px;
+}
+.p--2{
+    font-size: 19px;
+    line-height: 1.5;
+    margin-left: 100px;
+}
+.p2 >i {
+    color: green;
+    margin-right: 10px;
+}
+.p_2{
+    text-align: center;
+    color: rgb(250, 63, 63);
+    font-size: 25px;
+    margin-top: 25px;
+}
+.ol-1{
+    margin-left: 50px;
+    line-height: 1.7;
+    font-size: 18px;
+}
+.ol-1 > b {
+    font-size: 20px;
+    line-height: 2;
+}
